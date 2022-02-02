@@ -1,0 +1,14 @@
+C:\PROYECTOS DAW\Proyecto 1. consola\bin\Debug\netcoreapp3.1\Proyecto 1. consola.exe
+C:\PROYECTOS DAW\Proyecto 1. consola\bin\Debug\netcoreapp3.1\Proyecto 1. consola.deps.json
+C:\PROYECTOS DAW\Proyecto 1. consola\bin\Debug\netcoreapp3.1\Proyecto 1. consola.runtimeconfig.json
+C:\PROYECTOS DAW\Proyecto 1. consola\bin\Debug\netcoreapp3.1\Proyecto 1. consola.runtimeconfig.dev.json
+C:\PROYECTOS DAW\Proyecto 1. consola\bin\Debug\netcoreapp3.1\Proyecto 1. consola.dll
+C:\PROYECTOS DAW\Proyecto 1. consola\bin\Debug\netcoreapp3.1\Proyecto 1. consola.pdb
+C:\PROYECTOS DAW\Proyecto 1. consola\obj\Debug\netcoreapp3.1\Proyecto 1. consola.AssemblyInfoInputs.cache
+C:\PROYECTOS DAW\Proyecto 1. consola\obj\Debug\netcoreapp3.1\Proyecto 1. consola.AssemblyInfo.cs
+C:\PROYECTOS DAW\Proyecto 1. consola\obj\Debug\netcoreapp3.1\Proyecto 1. consola.csproj.CoreCompileInputs.cache
+C:\PROYECTOS DAW\Proyecto 1. consola\obj\Debug\netcoreapp3.1\Proyecto 1. consola.dll
+C:\PROYECTOS DAW\Proyecto 1. consola\obj\Debug\netcoreapp3.1\Proyecto 1. consola.pdb
+C:\PROYECTOS DAW\Proyecto 1. consola\obj\Debug\netcoreapp3.1\Proyecto 1. consola.genruntimeconfig.cache
+C:\PROYECTOS DAW\PROYECTO 1. consola\obj\Debug\netcoreapp3.1\Proyecto 1. consola.csproj.AssemblyReference.cache
+C:\PROYECTOS DAW\PROYECTO 1. consola\obj\Debug\netcoreapp3.1\Proyecto 1. consola.GeneratedMSBuildEditorConfig.editorconfig
