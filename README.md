@@ -6,4 +6,3 @@ En este repositorio vamos a ir guardando**diferentes trabajosy ejercicios**que v
 
 Para más información, [pulse aquí](https://www.sepe.es/HomeSepe/Personas/encontrar-trabajo/Garantia-Juvenil/ofertas-garantia-juvenil.html)o en www.sepe.es
 
-![IES "PEÑAS NEGRAS"](http://ies-pnegras.centros.castillalamancha.es/)
